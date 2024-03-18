@@ -8,7 +8,7 @@ I'll combine the learning techniques I saw from my University Degree, [#100Devs]
 ## Get Started
 
 1. Do the free coursera course about [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
-
+2. Do the daily, weekly, mothly to do's
 
 ## Do the work work work work
 
