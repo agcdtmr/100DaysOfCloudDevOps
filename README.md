@@ -3,7 +3,7 @@
 This repository represents my Cloud DevOps Challenge, aimed at enhancing my skills and proficiency in this career trajectory. It serves as the foundation for sharing ideas, fostering growth, and reaching new milestones in Cloud DevOps! I began this process on March 18, 2024 (Monday), and plan to continue until July 26 (Friday). I will be dedicating one hour each day, excluding weekends, to gaining a foundational understanding of the various aspects of DevOps.
 
 
-I'll combine the learning techniques I saw from my University Degree, [#100Devs](https://100devs.org/), Techgrounds, [Women Who Code](https://www.womenwhocode.com), Codam Amsterdam, DataTalks.Club, Code First Girls, [TechWorld with Nana](https://www.youtube.com/c/techworldwithnana), [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy), [Shubham Londhe](https://github.com/LondheShubham153)'s [#90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps), Michael Cade's [#90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps/tree/main/2022/Days) and other helpful resources and community out there!
+I'll combine the learning techniques I saw from my University Degree, [#100Devs](https://100devs.org/), Techgrounds, [Women Who Code](https://www.womenwhocode.com), Codam Amsterdam, DataTalks.Club, Code First Girls, [TechWorld with Nana](https://www.youtube.com/c/techworldwithnana), [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy), Shubham Londhe's [#90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps), Michael Cade's [#90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps/tree/main/2022/Days) and other helpful resources and community out there!
 
 ## Get Started
 
