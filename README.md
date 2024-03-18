@@ -50,5 +50,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 ## Resources:
 
 - I am using [coverview](https://coverview.vercel.app/editor) to create a cover image for hashnode
+- Impressed with [Supriya's blog](https://hashnode.com/@Supriya27)
+- Check other resources of the [community](https://www.google.com/search?q=%2390DaysofDevOps+challenge&oq=%2390DaysofDevOps+challenge&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB7SAQc0NDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1)
 
 If you find this helpful. Ping me a message or connect us on [LinkedIn](https://www.linkedin.com/in/anjcalleja/).
