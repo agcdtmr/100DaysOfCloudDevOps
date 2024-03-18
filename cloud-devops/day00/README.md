@@ -7,5 +7,6 @@ This is the day that you decided take this challenge and start your #100DaysOfCl
 - [ ] Join anj's [newsletter](https://anj.hashnode.dev/)
 - [ ] Share this big milestone to your network. What is #100DaysOfCloudDevOps and why you are taking this challenge.
 - [ ] Send a message to a friend or network who can also benefit for this challenge.
-
-If you find this helpful. Ping me a message or connect us on [LinkedIn](https://www.linkedin.com/in/anjcalleja/).
+- [ ] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
+- [ ] Make an appointment to yourself to do the weekly tasks. Save it on your calendar, turn on email notifications.
+- [ ] Make an appointment to yourself to do the monthly tasks. Save it on your calendar, turn on email notifications.
