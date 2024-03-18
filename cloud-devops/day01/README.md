@@ -1,4 +1,4 @@
-## day01 - Let's get started!
+## day01 - Introduction
 
 - [ ] Enroll to the free coursera course about [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [ ] Write a short article about your understanding of Cloud Computing and DevOps
