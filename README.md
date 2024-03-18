@@ -8,7 +8,8 @@ I'll combine the learning techniques I saw from my University Degree, [#100Devs]
 ## Get Started
 
 1. Do the free coursera course about [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
-2. Do the daily, weekly, mothly to do's
+2. Start on day 0
+3. Do the daily, weekly, mothly to do's
 
 ## Do the work work work work
 
@@ -23,9 +24,9 @@ Daily:
 
 Weekly
 - [ ] Help atleast 1 person. Give feedback, share resources, be a rubber ducky, help in any way, in any form
-- [ ] Call with a fellow learner about both of your progress
-- [ ] Connect and follow a tech professional working in tech or as a Cloud DevOps
-- [ ] Send follow-up message to your fellow learner and that tech professional working in tech you connected with
+- [ ] Call with a fellow learner about both of your progress. Endorse their skills or if you worked on a project together write recommendations!
+- [ ] Reach out, connect and follow a tech professional working in tech or as a Cloud DevOps
+- [ ] Send appreciation or follow-up message to your fellow learner and that tech professional working in tech you connected with
 
 
 Monthly
