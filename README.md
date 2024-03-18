@@ -20,6 +20,7 @@ Daily:
 - [ ] Share your wins and blog/documentation on LinkedIn or other social media platform you may have
 - [ ] Applause/like/heart, comment and check out what others are learning and learn from them
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+- [ ] Read your [reminders](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#reminder-to)
 
 Weekly
 
