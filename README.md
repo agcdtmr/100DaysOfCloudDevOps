@@ -18,6 +18,8 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 - [ ] Write a detailed commit message and push your progress on GitHub everyday
 - [ ] Publish a blog that will serve as your documentation. Here's my [blog](https://anj.hashnode.dev/)
 - [ ] Share your wins and progress on LinkedIn or other social media platform you may have
+- [ ] Make an appointment to yourself to do the [weekly tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work). Save it on your calendar, turn on email notifications.
+- [ ] Make an appointment to yourself to do the [monthly tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work). Save it on your calendar, turn on email notifications.
 - [ ] Applause/like/heart, comment and check out what others are learning and learn from them
 - [ ] Read your [reminders](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#reminder-to)
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
