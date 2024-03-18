@@ -7,8 +7,7 @@ I'll combine the learning techniques I saw from my University Degree, [#100Devs]
 ## Get Started
 
 1. Start on day 0
-2. Do the free coursera course about [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
-3. Do the daily, weekly, mothly to do's
+2. Do the daily, weekly, mothly to do's
 
 ## Do the work work work work
 
@@ -19,8 +18,8 @@ Daily:
 - [ ] Publish a blog that will serve as your documentation. Here's my [blog](https://anj.hashnode.dev/)
 - [ ] Share your wins and blog/documentation on LinkedIn or other social media platform you may have
 - [ ] Applause/like/heart, comment and check out what others are learning and learn from them
-- [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 - [ ] Read your [reminders](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#reminder-to)
+- [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 Weekly
 
