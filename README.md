@@ -1,1 +1,1 @@
-# 100 Day Of Cloud DevOps
+# 100 Day Of Cloud DevOps Challenge
