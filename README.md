@@ -34,7 +34,7 @@ Monthly
 - [ ] Practive reverse mentoring. Leave a review for this mentor to give back
 - [ ] Attend atleast one tech meetup, networking event or conference. And share this experience on LinkedIn or other social media platform you may have
 
-Remember:
+## Remember:
 
 - Learn to manage your frustrations
 - Be consistent
