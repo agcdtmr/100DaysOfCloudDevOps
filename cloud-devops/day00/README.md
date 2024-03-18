@@ -2,9 +2,9 @@
 
 This is the day that you decided take this challenge and start your #100DaysOfCloudDevOps
 
-- Fork the [repo]()
-- Follow and connect with anj on LinkedIn
-- Join anj's newsletter
+- Star and fork the [repo](https://github.com/agcdtmr/100DaysOfCloudDevOps)
+- Follow and connect with [anj](https://www.linkedin.com/in/anjcalleja/) on LinkedIn
+- Join anj's [newsletter](https://anj.hashnode.dev/)
 - Share this big milestone to your network
 
 ---
