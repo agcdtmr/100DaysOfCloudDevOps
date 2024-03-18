@@ -43,7 +43,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 - Ask, when stuck
 - Document your journey
 - Network and make friends
-- To have a lot of fun
+- Have a lot of fun
 
 ## Resources:
 
