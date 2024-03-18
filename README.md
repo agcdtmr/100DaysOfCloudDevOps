@@ -2,7 +2,7 @@
 
 This repository represents my Cloud DevOps Challenge, aimed at enhancing my skills and proficiency in this career trajectory. It serves as the foundation for sharing ideas, fostering growth, and reaching new milestones in Cloud DevOps!
 
-I'll combine the learning techniques I saw from my University Degree, [#100Devs](https://100devs.org/), Techgrounds, [Women Who Code](https://www.womenwhocode.com), Codam Amsterdam, DataTalks.Club, Code First Girls, [TechWorld with Nana](https://www.youtube.com/c/techworldwithnana), [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy), Techionista and [Shubham Londhe](https://github.com/LondheShubham153)'s [#90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps) and other helpful resources and community out there!
+I'll combine the learning techniques I saw from my University Degree, [#100Devs](https://100devs.org/), Techgrounds, [Women Who Code](https://www.womenwhocode.com), Codam Amsterdam, DataTalks.Club, Code First Girls, [TechWorld with Nana](https://www.youtube.com/c/techworldwithnana), [John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy), [Shubham Londhe](https://github.com/LondheShubham153)'s [#90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps) and other helpful resources and community out there!
 
 
 ## Get Started
