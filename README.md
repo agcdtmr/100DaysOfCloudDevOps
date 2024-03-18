@@ -16,7 +16,7 @@ Daily:
 - [ ] Learn everyday
 - [ ] Write a detailed commit message and push your progress on GitHub everyday
 - [ ] Publish a blog that will serve as your documentation. Here's my [blog](https://anj.hashnode.dev/) 
-- [ ] Share your wins and blog/documentation on LinkedIn or other social media platform you may have!
+- [ ] Share your wins and blog/documentation on LinkedIn or other social media platform you may have
 - [ ] Applause/like/heart, comment and check out what others are learning and learn from them
 - [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
@@ -31,7 +31,7 @@ Weekly
 Monthly
 - [ ] Call with your mentor or a mentor from adplist.com: ask feeback about your code, portfolio review, career advice, mock interviews or leadership advice
 - [ ] Practive reverse mentoring. Leave a review for this mentor to give back
-- [ ] Attend atleast one tech meetup, networking event or conference
+- [ ] Attend atleast one tech meetup, networking event or conference. And share this experience on LinkedIn or other social media platform you may have
 
 
 
