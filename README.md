@@ -45,4 +45,8 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 - Network and make friends
 - To have a lot of fun
 
+## Resources:
+
+- I am using [coverview](https://coverview.vercel.app/editor) to create a cover image for hashnode
+
 If you find this helpful. Ping me a message or connect us on [LinkedIn](https://www.linkedin.com/in/anjcalleja/).
