@@ -8,5 +8,5 @@ This is the day that you decided take this challenge and start your #100DaysOfCl
 - [ ] Write a short article about: What is #100DaysOfCloudDevOps and why you are taking this challenge.
 - [ ] Send a message to a friend or network who can also benefit for this challenge.
 - [ ] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
-- [ ] Make an appointment to yourself to do the weekly tasks. Save it on your calendar, turn on email notifications.
-- [ ] Make an appointment to yourself to do the monthly tasks. Save it on your calendar, turn on email notifications.
+- [ ] Make an appointment to yourself to do the [weekly tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work). Save it on your calendar, turn on email notifications.
+- [ ] Make an appointment to yourself to do the [monthly tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work). Save it on your calendar, turn on email notifications.
