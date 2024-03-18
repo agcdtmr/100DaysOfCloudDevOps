@@ -34,13 +34,14 @@ Monthly
 - [ ] Practive reverse mentoring. Leave a review for this mentor to give back
 - [ ] Attend atleast one tech meetup, networking event or conference. And share this experience on LinkedIn or other social media platform you may have
 
-## Remember:
+## Reminder to:
 
 - Learn to manage your frustrations
 - Be consistent
 - Take care of yourself
-- When stuck, ask!
+- Ask, when stuck
 - Document your journey
 - Network and make friends
+- To have a lot of fun
 
 If you find this helpful. Ping me a message or connect us on [LinkedIn](https://www.linkedin.com/in/anjcalleja/).
