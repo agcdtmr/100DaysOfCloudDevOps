@@ -23,3 +23,5 @@
 - [IBM: What is DevOps](https://www.youtube.com/watch?v=UbtB4sMaaNM&pp=ygUOd2hhdCBpcyBkZXZvcHM%3D)
 - [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
 - [What is DevOps](https://supriyasurkar.hashnode.dev/day-1-what-is-devops)
+- [Introduction to Cloud Computing](https://github.com/techgrounds/techgrounds-anj-dtmr/blob/main/week-4/04_cloud_09.md#introduction-to-cloud-computing)
+- [Advantages of the cloud](https://github.com/techgrounds/techgrounds-anj-dtmr/blob/main/week-4/04_cloud_03.md#advantages-of-the-cloud)
