@@ -1,4 +1,4 @@
-## day01 - Introduction
+# day01 - Introduction
 
 - [x] Enroll to the free coursera course about [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [x] Write a short article about your understanding of Cloud Computing and DevOps
@@ -11,7 +11,13 @@
 - [ ] Describe the benefits of manageability in the cloud.
 - [ ] Describe the shared responsibility model.
 - [x] Why Cloud Computing is important, etc.
-- [ ] What is DevOps
-- [ ] What is Automation, Scaling, Infrastructure
-- [ ] Why DevOps is important, etc
+- [x] What is DevOps
+- [x] What is Automation, Scaling, Infrastructure
+- [x] Why DevOps is important, etc
 - [ ] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
+
+## Resources
+
+- [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
+- [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
+- [What is DevOps](https://supriyasurkar.hashnode.dev/day-1-what-is-devops)
