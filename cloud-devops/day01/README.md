@@ -19,5 +19,6 @@
 ## Resources
 
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
+- [IBM: What is DevOps](https://www.youtube.com/watch?v=UbtB4sMaaNM&pp=ygUOd2hhdCBpcyBkZXZvcHM%3D)
 - [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
 - [What is DevOps](https://supriyasurkar.hashnode.dev/day-1-what-is-devops)
