@@ -8,7 +8,6 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 ## Get Started
 
 1. Start on [day 00](https://github.com/agcdtmr/100DaysOfCloudDevOps/tree/main/cloud-devops/day00)
-2. Do the daily, weekly, mothly to do's
 
 ## Do the work work work work
 
