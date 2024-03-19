@@ -14,11 +14,12 @@
 - [x] What is DevOps
 - [x] What is Automation, Scaling, Infrastructure
 - [x] Why DevOps is important, etc
-- [ ] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
+- [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 
 ## Resources
 
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
+- [GitHub: What is DevOps?](https://www.youtube.com/watch?v=kBV8gPVZNEE)
 - [IBM: What is DevOps](https://www.youtube.com/watch?v=UbtB4sMaaNM&pp=ygUOd2hhdCBpcyBkZXZvcHM%3D)
 - [What is DevOps? Easy Way](https://www.youtube.com/watch?v=_Gpe1Zn-1fE&t=43s)
 - [What is DevOps](https://supriyasurkar.hashnode.dev/day-1-what-is-devops)
