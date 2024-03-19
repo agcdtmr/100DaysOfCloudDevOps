@@ -1,6 +1,6 @@
 # day00
 
-This is the day that you decided take this challenge and start your #100DaysOfCloudDevOps
+This is the day that you decided to take this challenge and start your #100DaysOfCloudDevOps
 
 - [x] Star and fork the [repo](https://github.com/agcdtmr/100DaysOfCloudDevOps)
 - [x] Follow and connect with [anj](https://www.linkedin.com/in/anjcalleja/) on LinkedIn
