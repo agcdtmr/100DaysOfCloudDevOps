@@ -12,3 +12,4 @@ This is the day that you decided to take this challenge and start your #100DaysO
 Resources:
 
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 00 — What is 100 Days Of Cloud DevOps and why am I taking this](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-00-what-is-100-days-of-cloud-devops-and-why-am-i-taking-this-challenge)
+- [DevOps Roadmap](https://roadmap.sh/devops)
