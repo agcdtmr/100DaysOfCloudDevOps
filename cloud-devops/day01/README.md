@@ -5,8 +5,12 @@
 - [ ] What is Cloud Computing? Describe the consumption-based model.
 - [ ] What are the Cloud Service Models? What are your understanding about Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)?
 - [ ] What are the Cloud Deployment Models? What is Public Cloud, Private Cloud, Hybrid Cloud, Multi Cloud and Community Cloud?
-- [ ] Why Cloud Computing is important, etc
+- [ ] Describe the benefits of high availability and scalability in the cloud.
+- [ ] Describe the benefits of reliability and predictability in the cloud.
+- [ ] Describe the benefits of security and governance in the cloud.
+- [ ] Describe the benefits of manageability in the cloud.
 - [ ] Describe the shared responsibility model.
+- [ ] Why Cloud Computing is important, etc.
 - [ ] What is DevOps
 - [ ] What is Automation, Scaling, Infrastructure
 - [ ] Why DevOps is important, etc
