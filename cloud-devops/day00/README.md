@@ -13,3 +13,7 @@ Resources:
 
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 00 — What is 100 Days Of Cloud DevOps and why am I taking this](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-00-what-is-100-days-of-cloud-devops-and-why-am-i-taking-this-challenge)
 - [DevOps Roadmap](https://roadmap.sh/devops)
+- [Cloud Roadmap](https://www.linkedin.com/pulse/cloud-engineer-roadmap-geeks-of-gurukul/)
+- [Becoming a Cloud Engineer in 2023 (A Roadmap)](https://dev.to/ileriayo/becoming-a-cloud-engineer-in-2023-a-roadmap-1f6k)
+- [Roadmap to cloud jobs: How and why to become a cloud engineer 2020](https://www.educative.io/blog/roadmap-to-cloud-engineer-jobs)
+- [A Step-by-Step Guide on How to Become a Cloud Engineer](https://www.projectpro.io/article/cloud-engineer/655)
