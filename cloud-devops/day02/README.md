@@ -1,7 +1,5 @@
 # day02
 
-I want to run a virtual machine on my mac apple m2 for study purposes, specifically to practice linux commands
-
 ## Resources
 
 - [What are the differences between Docker and Vagrant for local development?](https://www.quora.com/What-are-the-differences-between-Docker-and-Vagrant-for-local-development)
