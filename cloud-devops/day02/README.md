@@ -1,6 +1,6 @@
 # day02
 
-I want to run a virtual machine on my mac apple m2 for study purposes, specifically to to practice linux commands
+I want to run a virtual machine on my mac apple m2 for study purposes, specifically to practice linux commands
 
 ## Resources
 
