@@ -11,6 +11,7 @@
 
 ## Resources
 
+- Blog: [#100DaysOfCloudDevOps Challenge — Day 02 — Configuring Vagrant to use Docker as the provider for a container-based local environment](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-02-configuring-vagrant-to-use-docker-as-the-provider-for-a-container-based-local-environment)
 - [What are the differences between Docker and Vagrant for local development?](https://www.quora.com/What-are-the-differences-between-Docker-and-Vagrant-for-local-development)
 - [Using Docker as provider for Vagrant](https://dev.to/mattdark/using-docker-as-provider-for-vagrant-10me)
 - [Creating Reproducible Development Environments](https://medium.com/nerd-for-tech/creating-reproducible-development-environments-fac8d6471f35)
