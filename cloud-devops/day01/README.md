@@ -14,6 +14,7 @@
 - [x] What is DevOps
 - [x] What is Automation, Scaling, Infrastructure
 - [x] Why DevOps is important, etc
+- [x] Article Conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 
 ## Resources
