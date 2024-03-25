@@ -1,4 +1,4 @@
-## day02
+## day03
 
 Day 2 Task: Basics linux command
 
