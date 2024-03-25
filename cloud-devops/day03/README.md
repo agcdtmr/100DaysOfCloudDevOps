@@ -1,6 +1,5 @@
-## day03
+## day03 - Basics linux command
 
-Day 2 Task: Basics linux command
 
 Task: What is the linux command to
 
