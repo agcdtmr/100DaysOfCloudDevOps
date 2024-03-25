@@ -19,6 +19,7 @@
 
 ## Resources
 
+- [My Linkedin post]()
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 01 — An Introduction to Cloud Computing & DevOps](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-01-an-introduction-to-cloud-computing-devops)
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
 - [GitHub: What is DevOps?](https://www.youtube.com/watch?v=kBV8gPVZNEE)
