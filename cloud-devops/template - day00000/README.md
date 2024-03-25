@@ -20,6 +20,8 @@ In this article, I'll share my understanding of
 
 Blog:
 
+For non-tech professionals, this task means
+
 ------------
 
 Hi everyone! I'm at the beginning of my tech career.
