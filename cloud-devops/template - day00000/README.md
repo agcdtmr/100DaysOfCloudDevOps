@@ -4,26 +4,24 @@
 - [x] Write a short article about your understanding of
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
+- [ ] Bonus: Architecture Design
 
 ## Resources
 
 - [My Linkedin post]
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
 
-
-
-
 ## Linkedin post template
 
 🎉 Day 0000000 of my #100DaysOfCloudDevOps challenge
 
-In this article, I'll share my understanding of 
+In this article, I'll share my understanding of
 
 Blog:
 
 For non-tech professionals, this task means
 
-------------
+---
 
 Hi everyone! I'm at the beginning of my tech career.
 
@@ -42,4 +40,3 @@ Find me here too:
 - https://lnkd.in/ew9kaQid
 
 - https://lnkd.in/eBDEwba6
-
