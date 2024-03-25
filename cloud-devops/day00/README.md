@@ -11,6 +11,7 @@ This is the day that you decided to take this challenge and start your #100DaysO
 
 Resources:
 
+- [My Linkedin post]()
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 00 — What is 100 Days Of Cloud DevOps and why am I taking this](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-00-what-is-100-days-of-cloud-devops-and-why-am-i-taking-this-challenge)
 - [How to become a Cloud Engineer in 2024? A Complete Roadmap](https://www.almabetter.com/bytes/articles/how-to-become-a-cloud-engineer)
 - [DevOps Roadmap](https://roadmap.sh/devops)
