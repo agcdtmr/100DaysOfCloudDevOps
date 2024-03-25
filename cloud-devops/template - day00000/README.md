@@ -7,8 +7,9 @@
 
 ## Resources
 
+- [My Linkedin post]()
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
-- []()
+
 
 
 
