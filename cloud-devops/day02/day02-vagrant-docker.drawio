@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net" modified="2024-03-25T15:18:03.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="v0ZTJw8W2UhtJBlME9EI" version="24.0.2" type="device">
+  <diagram name="Page-1" id="cdMkQkT2JDH7OvJd1QBH">
+    <mxGraphModel dx="1985" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--10" value="" style="group;strokeColor=#FFFFFF;strokeWidth=10;fillColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-40" y="-20" width="830" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=10;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+          <mxGeometry width="830" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--2" value="&lt;font color=&quot;#fafafa&quot;&gt;&lt;b&gt;MacOS Computer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+          <mxGeometry x="16.6" y="28.571428571428573" width="199.20000000000002" height="42.85714285714286" as="geometry" />
+        </mxCell>
+        <UserObject label="https://logowik.com/content/uploads/images/vagrant7996.logowik.com.webp" id="Mxa2zgQ2Cr6zUFlVne9--3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=10;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+            <mxGeometry x="182.6" y="85.71" width="647.4" height="314.29" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--4" value="&lt;font color=&quot;#fafafa&quot;&gt;&lt;b&gt;Vagrant&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+          <mxGeometry x="160" y="109.99571428571429" width="199.20000000000002" height="42.85714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=10;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+          <mxGeometry x="182.6" y="171.43" width="647.4" height="228.57" as="geometry" />
+        </mxCell>
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--6" value="&lt;font color=&quot;#fafafa&quot;&gt;&lt;b&gt;Docker&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+          <mxGeometry x="215.8" y="190.00000000000003" width="199.20000000000002" height="42.85714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;strokeWidth=10;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+          <mxGeometry x="381.8" y="228.57" width="448.2" height="171.43" as="geometry" />
+        </mxCell>
+        <mxCell id="Mxa2zgQ2Cr6zUFlVne9--8" value="&lt;font color=&quot;#fafafa&quot;&gt;&lt;b&gt;Docker Container (Ubuntu)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Mxa2zgQ2Cr6zUFlVne9--10">
+          <mxGeometry x="359.2" y="242.8571428571429" width="265.6" height="42.85714285714286" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
