@@ -1,4 +1,13 @@
-# day02
+# day02 - Build a container-based local environment
+
+- [x] Start week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
+- [x] Write a short article about your understanding of container-based local environment
+- [x] Goal of using container-based local environment? and why did I decide to use this?
+- [x] What is a local environment?
+- [x] What is a container-based local environment?
+- [x] Step-by-step guide to configuring a container-based local environment
+- [x] Article Conclusion
+- [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 
 ## Resources
 
