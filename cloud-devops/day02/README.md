@@ -8,6 +8,7 @@
 - [x] Step-by-step guide to configuring a container-based local environment compatible to your machine
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
+- [x] Bonus: Architecture Design
 
 ## Resources
 
