@@ -9,3 +9,32 @@
 
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
 - []()
+
+
+
+## Linkedin post template
+
+🎉 Day 0000000 of my #100DaysOfCloudDevOps challenge
+
+In this article, I'll share my understanding of 
+
+------------
+
+Hi everyone! I'm at the beginning of my tech career.
+
+Join me as I share my journey—highlighting progress, making errors, be bff with the bugs, read code like it is a novel, linking helpful resources and improvements into writing documentation.
+
+I'm here to ask plenty of questions, question a lot of concepts and encourage a diverse perspective, all while infusing a touch of humor into the tech world.
+
+Can't wait to learn from you, hear your feedback and engage in discussions with fellow enthusiasts.
+
+Find me here too:
+
+- https://lnkd.in/eZ8NVmY3
+
+- https://lnkd.in/ercqYVt2
+
+- https://lnkd.in/ew9kaQid
+
+- https://lnkd.in/eBDEwba6
+
