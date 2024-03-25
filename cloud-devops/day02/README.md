@@ -5,7 +5,7 @@
 - [x] Goal of using container-based local environment? and why did I decide to use this?
 - [x] What is a local environment?
 - [x] What is a container-based local environment?
-- [x] Step-by-step guide to configuring a container-based local environment
+- [x] Step-by-step guide to configuring a container-based local environment compatible to your machine
 - [x] Article Conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 
