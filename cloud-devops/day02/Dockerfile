@@ -5,6 +5,11 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 RUN apt-get update -y
 
+# Add the following lines to update and reinstall man-db
+RUN apt-get install -y sudo
+RUN sudo apt update
+RUN sudo apt install --reinstall -y man-db
+
 RUN apt-get install -y --no-install-recommends ssh sudo
 
 RUN useradd --create-home -s /bin/bash vagrant
