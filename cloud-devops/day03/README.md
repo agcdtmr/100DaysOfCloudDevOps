@@ -1,5 +1,4 @@
-## day03 - Basics linux command
-
+## Day 03: Linux Commands for DevOps (actually for everyone)
 
 Task: What is the linux command to
 
