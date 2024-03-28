@@ -2,6 +2,15 @@
 
 Task: What is the linux command to
 
+Learn what shells are and what Bash is
+Learn about the syntax of Bash commands
+Learn about important Bash commands, such as ls, cat, and ps
+Learn how to use I/O operators to redirect input and output
+Learn how to update a server's operating system
+Learn how to find and terminate rogue processes
+
+Find the manual
+
 Check your present working directory.
 List all the files or directories including hidden files.
 Create a nested directory A/B/C/D/E
