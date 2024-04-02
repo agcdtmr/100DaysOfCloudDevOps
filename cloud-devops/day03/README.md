@@ -1,19 +1,8 @@
-## Day 03: Linux Shell Scripting for Cloud DevOps Engineers (Commands used in day-to-day activities)
-
+## Day 03: Day-to-day Linux commands used by Cloud DevOps Engineers
 
 - [x] Progress week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
-
-- [ ] Write a short article about your understanding and explain in your own words and give examples of:
-- What is Shell
-- What is Kernel
-- What is Bash
-- What shells are and what Bash is
-- What is the syntax of Bash commands
-- What is Linux Shell Scripting?
-- File and Directory Permissions
-- How to use I/O operators to redirect input and output?
-
-- [ ] What is the linux command to:
+- [x] Write a short article about your understanding and explain in your own words and give examples of Linux commands
+- [x] What is the linux command to:
 - Find the manual
 - important Bash commands, such as ls, cat, and ps
 - Check your present working directory.
@@ -25,11 +14,8 @@
 - Remove a directory or folder.
 - Create a file and to view the content.
 - Find the difference between two files.
-
-
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
-
 
 ## Resources
 
@@ -39,5 +25,3 @@
 - [Linux Commands for DevOps (Actually everyone)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day15.md)
 - [Linux for Hackers](https://www.youtube.com/watch?v=VbEx7B_PTOE)
 - [How to Learn Linux Shell Scripting for DevOps?](https://devopscube.com/linux-shell-scripting-for-devops/)
-
-
