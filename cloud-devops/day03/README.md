@@ -19,7 +19,7 @@
 
 ## Resources
 
-- [My Linkedin post]
+- [My Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7180935345360797696/)
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 03 — Day-to-day Linux commands used by Cloud DevOps Engineers)](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-03-day-to-day-linux-commands-used-by-cloud-devops-engineers)
 - [Linux commands for DevOps (Commands used in day-to-day activities)](https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/)
 - [Linux Commands for DevOps (Actually everyone)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day15.md)
