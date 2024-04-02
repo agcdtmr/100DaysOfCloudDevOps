@@ -1,6 +1,6 @@
 ## Day 03: Day-to-day Linux commands used by Cloud DevOps Engineers
 
-- [x] Progress week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
+- [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [x] Write a short article about your understanding and explain in your own words and give examples of Linux commands
 - [x] What is the linux command to:
 - Find the manual
