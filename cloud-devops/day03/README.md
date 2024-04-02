@@ -13,7 +13,7 @@
 - Check which commands you have run till now.
 - Remove a directory or folder.
 - Create a file and to view the content.
-- Find the difference between two files.
+- Find the difference between two files' contents.
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 
