@@ -1,4 +1,16 @@
-## Day 03: Linux Commands for DevOps (actually for everyone)
+## Day 03: Linux Shell Scripting for Cloud DevOps Engineers (Commands used in day-to-day activities)
+
+What is Kernel
+What is Shell
+What is Linux Shell Scripting?
+
+Tasks
+
+Explain in your own words and examples, what is Shell Scripting for DevOps.
+What is #!/bin/bash? can we write #!/bin/sh as well?
+Write a Shell Script which prints I will complete #90DaysOofDevOps challenge
+Write a Shell Script to take user input, input from arguments and print the variables.
+Write an Example of If else in Shell Scripting by comparing 2 numbers
 
 Task: What is the linux command to
 
@@ -32,6 +44,9 @@ To find the difference between fruits.txt and Colors.txt file.
 ## Resources
 
 - [Linux commands for DevOps (Commands used in day-to-day activities)](https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/)
+- [Linux Commands for DevOps (Actually everyone)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day15.md)
+- [Linux for Hackers](https://www.youtube.com/watch?v=VbEx7B_PTOE)
+- [How to Learn Linux Shell Scripting for DevOps?](https://devopscube.com/linux-shell-scripting-for-devops/)
 
 Bash is a vital tool for managing Linux machines. The name is short for "Bourne Again Shell."
 
