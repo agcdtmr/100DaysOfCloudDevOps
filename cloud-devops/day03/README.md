@@ -5,9 +5,6 @@
 - [x] Read about:
 - command syntax and how commands are structured. After you know the syntax, you can apply it to every Bash command you run.
 `command [options] [arguments]`
-- What is Shell
-- What is Kernel
-- What is Linux Shell Scripting?
 - File and Directory Permissions
 - How to use I/O operators to redirect input and output?
 - [x] Write a short article about your understanding and explain in your own words and give examples of Linux commands
