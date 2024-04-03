@@ -3,6 +3,11 @@
 - [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
       
 - [x] Read about:
+- What is Linux?
+- How did Linux come to be?
+- Why is Linux awesome?
+- How does Linux do its thing?
+- What can you do with Linux?
 - command syntax and how commands are structured. After you know the syntax, you can apply it to every Bash command you run.
 `command [options] [arguments]`
 - File and Directory Permissions
