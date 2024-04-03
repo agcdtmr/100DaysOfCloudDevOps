@@ -1,6 +1,15 @@
 ## Day 03: Day-to-day Linux commands used by Cloud DevOps Engineers
 
 - [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
+      
+- [x] Read about:
+- command syntax and how commands are structured. After you know the syntax, you can apply it to every Bash command you run.
+`command [options] [arguments]`
+- What is Shell
+- What is Kernel
+- What is Linux Shell Scripting?
+- File and Directory Permissions
+- How to use I/O operators to redirect input and output?
 - [x] Write a short article about your understanding and explain in your own words and give examples of Linux commands
 - [x] What is the linux command to:
 - Find the manual
