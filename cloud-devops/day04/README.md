@@ -10,6 +10,7 @@
 
 - [My Linkedin post]
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
+- [Managing your Linux System, Filesystem & Storage](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day16.md)
 
 ## Blog invitation
 
