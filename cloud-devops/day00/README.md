@@ -1,4 +1,4 @@
-# day00
+# Day 00
 
 This is the day that you decided to take this challenge and start your #100DaysOfCloudDevOps
 
