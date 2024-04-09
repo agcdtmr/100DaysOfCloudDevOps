@@ -12,6 +12,8 @@ RUN sudo apt install --reinstall -y man-db
 
 
 # Install Editors
+
+# Nano Editor
 RUN sudo apt-get install nano
 # Vim Editor might already be installed
 # If not uncomment the next line
