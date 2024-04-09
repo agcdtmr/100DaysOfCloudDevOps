@@ -10,6 +10,13 @@ RUN apt-get install -y sudo
 RUN sudo apt update
 RUN sudo apt install --reinstall -y man-db
 
+
+# Install Editors
+# Vim might already be installed
+RUN sudo apt-get install nano
+
+
+
 RUN apt-get install -y --no-install-recommends ssh sudo
 
 RUN useradd --create-home -s /bin/bash vagrant
