@@ -10,6 +10,7 @@
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 - [x] Bonus: Architecture Design
+- [x] How to [run the Vagrantfile and Dockerfile](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-02-configuring-vagrant-to-use-docker-as-the-provider-for-a-container-based-local-environment)
 
 ## Resources
 
