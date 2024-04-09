@@ -5,6 +5,7 @@
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 - [ ] Bonus: Architecture Design
+- [ ] Questions asked while doing this task
 
 ## Resources
 
