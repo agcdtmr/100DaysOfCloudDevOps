@@ -2,6 +2,7 @@
 
 - [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [x] Write a short article about your understanding of
+- What are file editors? 
 - Nano
 - Vim
 - Key differences of the editors
