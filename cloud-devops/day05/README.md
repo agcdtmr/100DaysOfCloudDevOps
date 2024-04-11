@@ -1,8 +1,12 @@
-# Day 0000: Topic
+# Day 05: Editors
 
 - [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [x] Write a short article about your understanding of
+- Nano
+- Vim
+- Key differences of the editors
 - [x] Article conclusion
+- [x] Add cover image to your blog
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 - [ ] Bonus: Architecture Design
 
@@ -10,17 +14,6 @@
 
 - [My Linkedin post]
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
-
-
-## Blog invitation
-
---put divider--
-
-Find the GitHub repo here.
-
-We all learned something from this blog. Give back and show your support by clicking heart or like, share this article as a conversation starter and join my newsletter so that we can continue learning together and you won’t miss any future posts.
-
-Thanks for reading until the end! If you have any questions or feedback, feel free to leave a comment.
 
 
 
