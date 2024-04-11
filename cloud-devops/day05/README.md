@@ -14,7 +14,7 @@
 ## Resources
 
 - [My Linkedin post]
-- Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
+- Blog: [#100DaysOfCloudDevOps Challenge — Day 05 — Editors](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-05-editors)
 
 
 
