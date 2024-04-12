@@ -7,7 +7,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 ## Get Started
 
-1. Start on [day 00](https://github.com/agcdtmr/100DaysOfCloudDevOps/tree/main/cloud-devops/day00)
+1. Start [here](https://github.com/agcdtmr/100DaysOfCloudDevOps/tree/main/cloud-devops/day00)
 
 ## Do the work work work work
 
@@ -52,5 +52,18 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 - I am using [coverview](https://coverview.vercel.app/editor) to create a cover image for hashnode
 - Impressed with [Supriya's blog](https://hashnode.com/@Supriya27)
 - Check other resources of the [community](https://www.google.com/search?q=%2390DaysofDevOps+challenge&oq=%2390DaysofDevOps+challenge&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB7SAQc0NDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1)
+
+## Progress
+
+- [ ] Day 00: Start and why
+- [ ] Day 01: Introduction What Cloud Computing and DevOps
+- [ ] Day 02: Build a container-based local environment
+- [ ] Day 03: Day-to-day Linux commands used by Cloud DevOps Engineers
+- [ ] Day 04: Streamlining Linux: Package Management, File System Insights, Optimizing Storage
+- [ ] Day 05: Editors
+- [ ] Day 06: Linux Shell Scripting for Cloud DevOps Engineers.
+- [ ] Day 07: File Permissions and Access Control Lists
+
+
 
 If you find this helpful. Ping me a message or connect us on [LinkedIn](https://www.linkedin.com/in/anjcalleja/).
