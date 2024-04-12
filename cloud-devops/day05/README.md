@@ -13,8 +13,16 @@
 
 ## Resources
 
-- [My Linkedin post]
+- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_newsletter-anj-in-tech-activity-7184128072701386752-wdg6?utm_source=share&utm_medium=member_desktop)
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 05 — Editors](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-05-editors)
-
+- [Vim](https://www.vim.org/)
+- [Vim help files](https://vimhelp.org/)
+- [Vim Tips Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
+- [Vim Adventures](https://vim-adventures.com/)
+- [GNU Nano](https://www.nano-editor.org/)
+- [GNU Nano Manual](https://www.nano-editor.org/dist/latest/nano.html)
+- [PowerShell Documentation](https://learn.microsoft.com/en-us/powershell/)
+- [GNU Emacs](https://www.gnu.org/software/emacs/)
+- [GNU Emacs Documentation](https://www.gnu.org/software/emacs/documentation.html)
 
 
