@@ -13,7 +13,7 @@
 
 ## Resources
 
-- [My Linkedin post]
+- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_newsletter-anj-in-tech-activity-7184128072701386752-wdg6?utm_source=share&utm_medium=member_desktop)
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 05 — Editors](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-05-editors)
 
 
