@@ -1,8 +1,9 @@
 # Day 06: Basic Linux Shell Scripting for DevOps Engineers.
 
-https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day19.md
-https://supriyasurkar.hashnode.dev/day-4-task-basic-linux-shell-scripting-for-devops-engineers
-https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day04
+- https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day19.md
+- https://supriyasurkar.hashnode.dev/day-4-task-basic-linux-shell-scripting-for-devops-engineers
+- https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day05
+- https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day04
 
 
 1. **Hello World Script:**
