@@ -62,7 +62,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 - [ ] Day 04: Streamlining Linux: Package Management, File System Insights, Optimizing Storage
 - [ ] Day 05: Editors
 - [ ] Day 06: Linux Shell Scripting for Cloud DevOps Engineers.
-- [ ] Day 07: File Permissions and Access Control Lists
+- [ ] Day 07: Powershell
 
 
 
