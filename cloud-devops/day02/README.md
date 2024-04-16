@@ -12,6 +12,13 @@
 - [x] Bonus: Architecture Design
 - [x] How to [run the Vagrantfile and Dockerfile](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-02-configuring-vagrant-to-use-docker-as-the-provider-for-a-container-based-local-environment)
 
+## How to run
+
+- `cd cloud-devops/day02`
+- `vagrant up`
+- `vagrant ssh`
+
+
 ## Resources
 
 - [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-02-activity-7177990114239770624-UW0a?utm_source=share&utm_medium=member_desktop)
