@@ -1,46 +1,4 @@
-# Day 06: Basic Linux Shell Scripting for DevOps Engineers.
-
-- https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day19.md
-- https://supriyasurkar.hashnode.dev/day-4-task-basic-linux-shell-scripting-for-devops-engineers
-- https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day05
-- https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day04
-
-
-1. **Hello World Script:**
-   Write a simple script that prints "Hello, World!" to the terminal when executed.
-
-2. **User Input Script:**
-   Create a script that asks the user for their name and then prints a greeting message using that name.
-
-3. **File Existence Check:**
-   Write a script that checks if a specified file exists in the current directory. If it does, print a message saying "File exists"; otherwise, print "File does not exist".
-
-4. **Basic Arithmetic Operations:**
-   Develop a script that takes two numbers as input from the user and prints their sum.
-
-5. **Directory Listing:**
-   Create a script that lists all files and directories in the current directory.
-
-6. **Simple Conditional Script:**
-   Write a script that takes a number as input from the user and prints whether it's even or odd.
-
-7. **Environment Information Script:**
-   Develop a script that prints out basic information about the system environment, such as the current user, hostname, and operating system.
-
-8. **String Manipulation:**
-   Create a script that takes a string as input from the user and prints its length.
-
-9. **Backup Script:**
-   Write a script that copies a specified file to a backup directory.
-
-10. **Password Generator:**
-    Develop a script that generates a random password of a specified length and complexity level (e.g., including numbers, special characters).
-
-These tasks focus on essential concepts in shell scripting while keeping the complexity level low for beginners. They cover basic input/output operations, conditionals, file manipulation, and system interaction.
-
-
-
-
+# Day 06: Linux Shell Scripting for DevOps Engineers
 
 - [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [x] Write a short article about your understanding of
@@ -54,6 +12,11 @@ These tasks focus on essential concepts in shell scripting while keeping the com
 
 - [My Linkedin post]
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
+- [What is Kernel](https://www.youtube.com/watch?v=5S-tTDeFZfY)
+- https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day19.md
+- https://supriyasurkar.hashnode.dev/day-4-task-basic-linux-shell-scripting-for-devops-engineers
+- https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day05
+- https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day04
 
 
 ## Blog invitation
