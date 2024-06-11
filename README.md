@@ -41,10 +41,12 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 - Learn to manage your frustrations
 - Be consistent
 - Take care of yourself
+- Find what works for you
 - Ask, when stuck
 - Document your journey
 - Network and make friends
 - Have a lot of fun
+- Celebrate
 
 ## Resources:
 
