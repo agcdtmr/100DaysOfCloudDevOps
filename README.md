@@ -68,4 +68,4 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 
 
-If you find this helpful. Ping me a message or connect us on [LinkedIn](https://www.linkedin.com/in/anjcalleja/).
+If you find this helpful. Ping me a message or connect us on [LinkedIn](www.linkedin.com/in/anjgcd).
