@@ -20,10 +20,9 @@
 
 Find the GitHub repo here.
 
-We all learned something from this blog. Give back and show your support by clicking heart or like, share this article as a conversation starter and join my newsletter so that we can continue learning together and you won’t miss any future posts.
+If you find this blog helpful too, give back and show your support by clicking heart or like, share this article as a conversation starter and join my newsletter so that we can continue learning together and you won’t miss any future posts.
 
 Thanks for reading until the end! If you have any questions or feedback, feel free to leave a comment.
-
 
 
 ## Linkedin post template
