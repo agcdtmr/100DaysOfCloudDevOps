@@ -45,22 +45,10 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 ## Resources:
 
+- Check all Day 00 to Day 100 here
 - Join anj's [newsletter](https://anj.hashnode.dev/)
 - I am using [coverview](https://coverview.vercel.app/editor) to create a cover image for hashnode
 - Impressed with [Supriya's blog](https://hashnode.com/@Supriya27)
 - Check other resources of the [community](https://www.google.com/search?q=%2390DaysofDevOps+challenge&oq=%2390DaysofDevOps+challenge&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB7SAQc0NDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#ip=1)
-
-## Progress
-
-- [ ] Day 00: Start and why
-- [ ] Day 01: Introduction What Cloud Computing and DevOps
-- [ ] Day 02: Build a container-based local environment
-- [ ] Day 03: Day-to-day Linux commands used by Cloud DevOps Engineers
-- [ ] Day 04: Streamlining Linux: Package Management, File System Insights, Optimizing Storage
-- [ ] Day 05: Editors
-- [ ] Day 06: Automate tasks with bash scripts
-- [ ] Day 07: Powershell
-
-
 
 If you find this helpful. Ping me a message or connect us on [LinkedIn](www.linkedin.com/in/anjgcd).
