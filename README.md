@@ -45,7 +45,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 ## Resources:
 
-- Check all Day 00 to Day 100 here
+- Check all Day 00 to Day 100 [here](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/days.md)
 - Join anj's [newsletter](https://anj.hashnode.dev/)
 - I am using [coverview](https://coverview.vercel.app/editor) to create a cover image for hashnode
 - Impressed with [Supriya's blog](https://hashnode.com/@Supriya27)
