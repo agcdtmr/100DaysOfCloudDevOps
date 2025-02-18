@@ -12,7 +12,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 **Daily Taks:**
 
-- [ ] 10 minutes learning session
+- [ ] Atleast 10 minutes learning session. Use pomodoro technique.
 - [ ] Write a detailed commit message and push your progress on GitHub
 - [ ] Publish a blog that will serve as your documentation. Here's my [blog](https://anj.hashnode.dev/)
 - [ ] Share your wins and progress on LinkedIn or other social media platform you may have
