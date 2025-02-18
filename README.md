@@ -13,7 +13,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 **Daily Taks:**
 
 - [ ] 10 minutes learning session
-- [ ] Write a detailed commit message and push your progress on GitHub everyday
+- [ ] Write a detailed commit message and push your progress on GitHub
 - [ ] Publish a blog that will serve as your documentation. Here's my [blog](https://anj.hashnode.dev/)
 - [ ] Share your wins and progress on LinkedIn or other social media platform you may have
 - [ ] Make an appointment to yourself to do the [weekly tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work). Save it on your calendar, turn on email notifications.
