@@ -1,12 +1,15 @@
-# Day 06: Linux Shell Scripting for DevOps Engineers
+# Day 06: Automate tasks with bash scripts
 
-- [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
-- [x] Write a short article about your understanding of
+- [x] Write a short article about your understanding of 
+---- Bash scripting foundational concepts
+---- Kernel
+---- Shell
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 - [x] Add cover image to your blog
 - [ ] Bonus: Architecture Design
-- [ ] Questions asked while doing this task
+- [x] Questions asked while doing this task
+---- With all the foundation concepts, what is the most used?
 
 ## Resources
 
@@ -19,15 +22,6 @@
 - https://github.com/LondheShubham153/90DaysOfDevOps/tree/master/2023/day04
 
 
-## Blog invitation
-
---put divider--
-
-Find the GitHub repo here.
-
-We all learned something from this blog. Give back and show your support by clicking heart or like, share this article as a conversation starter and join my newsletter so that we can continue learning together and you won’t miss any future posts.
-
-Thanks for reading until the end! If you have any questions or feedback, feel free to leave a comment.
 
 
 
