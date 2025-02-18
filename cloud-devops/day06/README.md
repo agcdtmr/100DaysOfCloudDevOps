@@ -9,8 +9,8 @@
 
 ## Resources
 
-- [My Linkedin post]
-- Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
+- [My Linkedin post](https://www.linkedin.com/posts/anjgcd_newsletter-anj-in-tech-activity-7297594838072373250-Ln5o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1_l4gBJCuGeMC6gbVwF7iYbXvPuV-KSi8)
+- Blog: [#100DaysOfCloudDevOps Challenge — Day 06](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-06-automate-tasks-with-bash-scripts)
 - [What is Kernel](https://www.youtube.com/watch?v=5S-tTDeFZfY)
 - https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day19.md
 - https://supriyasurkar.hashnode.dev/day-4-task-basic-linux-shell-scripting-for-devops-engineers
