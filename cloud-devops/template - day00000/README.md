@@ -4,7 +4,7 @@
 - [x] Write a short article about your understanding of
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
-- [x] Add cover image to your blog
+- [x] Add [cover image](https://coverview.vercel.app/editor) to your blog
 - [ ] Bonus: Architecture Design
 - [ ] Questions asked while doing this task
 
