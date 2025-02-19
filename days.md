@@ -1,5 +1,4 @@
-## Progress
-Great! Here’s the complete 100-day plan, incorporating a mix of theory, hands-on tasks, and coding exercises, with each day designed to deepen your cloud, DevOps, and Kubernetes expertise.
+## Days Challenges
 
 Day 00: Introduction & Motivation
 	•	Understand the challenge goals.

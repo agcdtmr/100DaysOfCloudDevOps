@@ -12,7 +12,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 **Daily Taks:**
 
-- [ ] 10 minutes learning session
+- [ ] Atleast 10 minutes learning session. Use pomodoro technique.
 - [ ] Write a detailed commit message and push your progress on GitHub
 - [ ] Publish a blog that will serve as your documentation. Here's my [blog](https://anj.hashnode.dev/)
 - [ ] Share your wins and progress on LinkedIn or other social media platform you may have
@@ -24,7 +24,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 **Monthly Tasks:**
 
 - [ ] Call with your mentor or a mentor from adplist.com: ask feeback about your code, portfolio review, career advice, mock interviews or leadership advice
-- [ ] Practive reverse mentoring. Leave a review for this mentor to give back
+- [ ] Practice reverse mentoring. Leave a review for this mentor to give back
 - [ ] Attend atleast one tech meetup, networking event or conference. And share this experience on LinkedIn or other social media platform you may have
 - [ ] Help atleast 1 person. Give feedback, share resources, be a rubber ducky, help in any way, in any form
 - [ ] Call with a fellow learner about both of your progress. Endorse their skills or if you worked on a project together write recommendations!
@@ -45,7 +45,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 ## Resources:
 
-- Check all Day 00 to Day 100 here
+- Check all Day 00 to Day 100 [here](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/days.md)
 - Join anj's [newsletter](https://anj.hashnode.dev/)
 - I am using [coverview](https://coverview.vercel.app/editor) to create a cover image for hashnode
 - Impressed with [Supriya's blog](https://hashnode.com/@Supriya27)
