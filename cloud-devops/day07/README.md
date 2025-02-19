@@ -1,7 +1,6 @@
-# Day 0000: Topic
+# Day 07: Powershell
 
-- [x] Progress on week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
-- [x] Write a short article about your understanding of
+- [x] Write a short article about your understanding of powershell and it's key concepts.
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 - [x] Add [cover image](https://coverview.vercel.app/editor) to your blog
@@ -12,6 +11,7 @@
 
 - [My Linkedin post]
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
+- [Learn and use PowerShell with just three commands](https://www.youtube.com/watch?v=cDcS6iL1G4I&t=29s)
 
 
 ## Blog invitation
@@ -57,4 +57,4 @@ Find me here too:
 
 - https://lnkd.in/eBDEwba6
 
-Inspired by: #100DaysOfCode #90DaysOfDevOps #100DaysOfCloud #90DaysOfCloud
+

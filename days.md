@@ -36,8 +36,8 @@ Day 06: Automate Tasks with Bash Scripting
 	•	Hands-On: Create a script to automate directory creation and file management.
 	•	Coding: Script to automate software installations.
 
-Day 07: PowerShell for Automation
-	•	Theory: PowerShell basics for Windows automation.
+Day 07: PowerShell
+	•	Theory: PowerShell basics
 	•	Hands-On: Retrieve system info using PowerShell (Get-Process, Get-Service).
 	•	Coding: Script to create a user and set permissions.
 
