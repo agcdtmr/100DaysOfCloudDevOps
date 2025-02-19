@@ -10,23 +10,8 @@
 ## Resources
 
 - [My Linkedin post]
-- Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
+- Blog: [#100DaysOfCloudDevOps Challenge — Day 07 - Powershell](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-07-powershell)
 - [Learn and use PowerShell with just three commands](https://www.youtube.com/watch?v=cDcS6iL1G4I&t=29s)
-
-
-## Blog invitation
-
---put divider--
-
-Find the GitHub repo here.
-
-If you find this blog helpful too, give back and show your support by clicking heart or like, share this article as a conversation starter and join my newsletter so that we can continue learning together and you won’t miss any future posts.
-
-Thanks for reading until the end! If you have any questions or feedback, feel free to leave a comment.
-
---put divider--
-
-Women in Tech's contributions
 
 
 ## Linkedin post template
@@ -57,4 +42,4 @@ Find me here too:
 
 - https://lnkd.in/eBDEwba6
 
-
+Inspired by: #100DaysOfCode #90DaysOfDevOps #100DaysOfCloud #90DaysOfCloud
