@@ -10,7 +10,7 @@
 ## Resources
 
 - [My Linkedin post]
-- Blog: [#100DaysOfCloudDevOps Challenge — Day 08 - Networking]()
+- Blog: [#100DaysOfCloudDevOps Challenge — Day 08 - Networking](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-08-networking)
 
 
 ## Linkedin post template
