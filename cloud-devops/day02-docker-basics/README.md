@@ -1,4 +1,4 @@
-# Day 02: Build a container-based local environment
+# Day 02: Docker Basics: Build a container-based local environment
 
 - [x] Start week 1: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [x] Write a short article about your understanding of:

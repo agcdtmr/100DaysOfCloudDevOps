@@ -12,7 +12,7 @@ Day 01: Fundamentals of Cloud Computing & DevOps
 
 Day 02: Docker Basics
 	•	Theory: Introduction to Docker, containers vs VMs, Docker Hub.
-	•	Hands-On: Install Docker and build a simple container-based local environment.
+	•	Hands-On: Install Docker and Configure Vagrant to use Docker as the provider for a container-based local environment
 	•	Coding: Write a Dockerfile for a custom container.
 
 Day 03: Linux Basics
@@ -40,7 +40,7 @@ Day 07: PowerShell
 	•	Hands-On: Retrieve system info using PowerShell (Get-Process, Get-Service).
 	•	Coding: Script to create a user and set permissions.
 
-Day 08: Networking Basics
+Day 08: Networking
 	•	Theory: IP addresses, subnets, routing, DNS, networking protocols.
 	•	Hands-On: Troubleshoot connectivity using ping, nslookup, traceroute.
 	•	Coding: Write a Python script to ping a list of servers.
