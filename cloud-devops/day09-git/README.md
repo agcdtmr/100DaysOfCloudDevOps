@@ -1,4 +1,4 @@
-# Day 0000: Topic
+# Day 09: Git
 
 - [x] Write a short article about your understanding of Git, GitHub, GitLab, and writing effective commit messages
 - [x] Article conclusion
