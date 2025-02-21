@@ -11,6 +11,7 @@
 
 - [My Linkedin post]
 - Blog: Kubernetes: Key Features, Architecture, Resources, YAML Structure & Key Attributes, Cluster, Pod, Namespaces
+- [Kubernetes Ultimate Cheat Sheet](https://gist.github.com/assafdori/a28122b73807622527084807e31f6ef9)
 
 
 ## Linkedin post template
