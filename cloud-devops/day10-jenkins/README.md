@@ -1,5 +1,6 @@
-# Day 0000: Topic
+# Day 10: Jenkins
 
+- [x] Complete: [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) by Barbara Oakley and Dr. Terrence Sejnowski. Reflect and note down on how you learn effectively.
 - [x] Write a short article about your understanding of
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
@@ -11,7 +12,7 @@
 
 - [My Linkedin post]
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 000000 - Topic]()
-
+- [jenkins-tutorial](https://github.com/ssbostan/jenkins-tutorial?tab=readme-ov-file)
 
 ## Blog invitation
 

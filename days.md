@@ -45,6 +45,16 @@ Day 08: Networking
 	•	Hands-On: Troubleshoot connectivity using ping, nslookup, traceroute.
 	•	Coding: Write a Python script to ping a list of servers.
 
+
+Day 09: Cloud Networking – VPCs, Subnets, Route Tables, Security Groups, VPNs, DNS, HTTP/HTTPS, FTP vs SFTP,
+Day 10: Security Essentials – SSH, SSL/TLS, firewalls, and access control lists
+Day 11: Git & GitHub – Basics, repositories, branches, and commits
+Day 12: Git Advanced – Git workflows, rebasing, merging, resolving conflicts
+Day 15: Web Servers – Nginx, Apache, reverse proxy, load balancing
+Day 16: Databases & SQL – RDBMS (AWS RDS, Azure SQL), queries, indexing
+Day 18: Infrastructure as Code (IaC) – Introduction to Terraform
+
+
 Day 09: Introduction to Kubernetes
 	•	Theory: What is Kubernetes? Kubernetes architecture (pods, nodes, clusters).
 	•	Hands-On: Set up Minikube on your local machine and run a Kubernetes cluster.
