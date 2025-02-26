@@ -9,7 +9,7 @@
 
 ## Resources
 
-- [My Linkedin post]
+- [My Linkedin post](https://www.linkedin.com/posts/anjgcd_100daysofclouddevops-100daysofcode-90daysofdevops-activity-7299801941922963456-JI7-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1_l4gBJCuGeMC6gbVwF7iYbXvPuV-KSi8)
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 07 - Powershell](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-07-powershell)
 - [Learn and use PowerShell with just three commands](https://www.youtube.com/watch?v=cDcS6iL1G4I&t=29s)
 
