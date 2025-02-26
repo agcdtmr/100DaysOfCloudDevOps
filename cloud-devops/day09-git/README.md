@@ -10,7 +10,7 @@
 ## Resources
 
 - [My Linkedin post]
-- Blog: [#100DaysOfCloudDevOps Challenge — Day 09 - Git](https://github.com/agcdtmr/100DaysOfCloudDevOps/tree/main/cloud-devops/day09-git)
+- Blog: [#100DaysOfCloudDevOps Challenge — Day 09 - Git](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-09-git)
 
 
 ## Linkedin post template
