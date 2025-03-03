@@ -6,7 +6,7 @@ I'll combine the learning techniques I grasp from my University Degree, [#100Dev
 
 ## Get Started
 
-1. Start [here](https://github.com/agcdtmr/100DaysOfCloudDevOps/tree/main/cloud-devops/day00)
+1. Start [here]([https://github.com/agcdtmr/100DaysOfCloudDevOps/tree/main/cloud-devops/day00](https://github.com/agcdtmr/100DaysOfCloudDevOps/tree/main/cloud-devops))
 
 ## Do the work work work work
 
