@@ -49,7 +49,7 @@ Day 9: Git Basics & Advanced Git
 	•	Hands-On: Create a Git repository, practice merging & resolving conflicts.
 	•	Coding: Automate Git operations with scripts.
 
-Day 10: Jenkins - CI/CD Basics
+Day 10: Jenkins Fundamentals
 	•	Theory: Introduction to Jenkins, CI/CD concepts.
 	•	Hands-On: Set up Jenkins on a local/cloud VM.
 	•	Coding: Create a basic Jenkins pipeline.
