@@ -109,6 +109,9 @@ Day 20: Infrastructure as Code (IaC) with Terraform
 
 Phase 5: Kubernetes & Cloud-Native Technologies
 
+add: kubeadm, capi, k3s,
+
+
 Day 21: Kubernetes Basics
 	•	Theory: Kubernetes architecture (pods, nodes, clusters).
 	•	Hands-On: Set up Minikube and run a cluster.
