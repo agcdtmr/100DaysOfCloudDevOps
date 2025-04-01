@@ -1,6 +1,6 @@
 # Day 11: Groovy
 
-- [x] Write a short article about your understanding of
+- [x] Write a blog about your understanding of Groovy, basic syntax and just-enough knowledge to start writing Jenkins pipelines.
 - [x] Article conclusion
 - [x] Do your [daily tasks](https://github.com/agcdtmr/100DaysOfCloudDevOps/blob/main/README.md#do-the-work-work-work-work)
 - [x] Add [cover image](https://coverview.vercel.app/editor) to your blog
