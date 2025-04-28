@@ -1,4 +1,4 @@
-# Day 0000: Topic
+# Day 12: Integrating Jenkins with GitHub
 
 - [x] Write a short article about your understanding of CI/CD, Integrating Jenkins with GitHub
 - [x] Article conclusion
