@@ -9,7 +9,7 @@
 
 ## Resources
 
-- [My Linkedin post]
+- [My Linkedin post](https://www.linkedin.com/posts/anjgcd_100daysofclouddevops-100daysofcode-90daysofdevops-activity-7322556670369304578-rpFe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1_l4gBJCuGeMC6gbVwF7iYbXvPuV-KSi8)
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 12 — CI/CD: Integrating Jenkins with GitHub]()
 
 
