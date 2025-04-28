@@ -59,10 +59,10 @@ Day 11: Just Enough Groovy for Jenkins Pipelines
 	•	Hands-On: Implement scripted pipelines.
 	•	Coding: Create a Jenkinsfile using Groovy.
 
-Day 12: Jenkins - Building an Agent
-	•	Theory: How Jenkins agents work.
-	•	Hands-On: Set up a Jenkins agent.
-	•	Coding: Automate agent provisioning with scripts.
+Day 12: Integrating Jenkins with GitHub
+	•	Theory: Understanding the importance of automating your build and deployment process by connecting Jenkins with GitHub for a seamless Continuous Integration and Deployment (CI/CD) pipeline.
+	•	Hands-On: Step-by-step guide on how to set up Jenkins with GitHub, including configuring webhooks, creating a Jenkinsfile, and troubleshooting common issues.
+	•	Coding: Writing the Jenkinsfile and configuring the GitHub webhook to trigger Jenkins builds automatically on every code push.
 
 Phase 3: Cloud, Security & Web Technologies
 
