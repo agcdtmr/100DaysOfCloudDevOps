@@ -64,48 +64,49 @@ Day 12: Integrating Jenkins with GitHub
 	•	Hands-On: Step-by-step guide on how to set up Jenkins with GitHub, including configuring webhooks, creating a Jenkinsfile, and troubleshooting common issues.
 	•	Coding: Writing the Jenkinsfile and configuring the GitHub webhook to trigger Jenkins builds automatically on every code push.
 
-Phase 3: Cloud, Security & Web Technologies
+Phase 3: Configuration Management & Infrastructure as Code
 
-Day 13: Cloud Networking
-	•	Theory: VPCs, subnets, route tables, security groups, VPNs.
-	•	Hands-On: Set up a VPC with subnets in AWS/Azure.
-	•	Coding: Write Terraform code to provision a VPC.
-
-Day 14: Security Essentials
-	•	Theory: SSH, SSL/TLS, firewalls, access control lists.
-	•	Hands-On: Secure a cloud VM with SSH keys & firewall rules.
-	•	Coding: Automate firewall rule configuration.
-
-Day 15: Web Servers & Proxy Concepts
-	•	Theory: Nginx, Apache, reverse proxy, load balancing, caching.
-	•	Hands-On: Deploy a web server.
-	•	Coding: Write an Nginx configuration file.
-
-Day 16: Databases & SQL
-	•	Theory: RDBMS (AWS RDS, Azure SQL), indexing, backups.
-	•	Hands-On: Deploy a cloud-based database instance.
-	•	Coding: Write SQL queries and backup automation.
-
-Phase 4: Configuration Management & Infrastructure as Code
-
-Day 17: Configuration Management - Ansible
+Day 13: Configuration Management - Ansible
 	•	Theory: Ansible fundamentals.
 	•	Hands-On: Install Ansible, create a simple playbook.
 	•	Coding: Automate web server setup with Ansible.
 
-Day 18: Configuration Management - Chef
+Day 14: Configuration Management - Chef
 	•	Theory: Introduction to Chef.
 	•	Hands-On: Install and configure Chef.
 	•	Coding: Write a Chef recipe for package installations.
 
-Day 19: Configuration Management - Puppet
+Day 15: Configuration Management - Puppet
 	•	Theory: Introduction to Puppet.
 	•	Hands-On: Install and configure Puppet.
 	•	Coding: Write a Puppet manifest to configure a server.
 
-Day 20: Infrastructure as Code (IaC) with Terraform
+Day 16: Infrastructure as Code (IaC) with Terraform
 	•	Theory: Terraform basics, Infrastructure as Code (IaC). Understanding Infrastructure as Code (Terraform vs. CloudFormation vs. Pulumi).
 	•	Hands-On: Install Terraform and create a basic AWS/GCP/Azure infrastructure using Terraform.
+
+Phase 4: Cloud, Security & Web Technologies
+
+Day 17: Cloud Networking
+	•	Theory: VPCs, subnets, route tables, security groups, VPNs.
+	•	Hands-On: Set up a VPC with subnets in AWS/Azure.
+	•	Coding: Write Terraform code to provision a VPC.
+
+Day 18: Security Essentials
+	•	Theory: SSH, SSL/TLS, firewalls, access control lists.
+	•	Hands-On: Secure a cloud VM with SSH keys & firewall rules.
+	•	Coding: Automate firewall rule configuration.
+
+Day 19: Web Servers & Proxy Concepts
+	•	Theory: Nginx, Apache, reverse proxy, load balancing, caching.
+	•	Hands-On: Deploy a web server.
+	•	Coding: Write an Nginx configuration file.
+
+Day 20: Databases & SQL
+	•	Theory: RDBMS (AWS RDS, Azure SQL), indexing, backups.
+	•	Hands-On: Deploy a cloud-based database instance.
+	•	Coding: Write SQL queries and backup automation.
+
 
 Phase 5: Kubernetes & Cloud-Native Technologies
 
