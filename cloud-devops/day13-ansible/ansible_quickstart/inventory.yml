@@ -1,0 +1,10 @@
+- name: Local Hello World
+  hosts: local
+  connection: local
+  gather_facts: false
+
+  tasks:
+    - name: Create a test file locally
+      copy:
+        content: "Hello from Ansible!"
+        dest: ./hello_from_ansible.txt
