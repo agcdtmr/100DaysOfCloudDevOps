@@ -30,9 +30,18 @@
 
 ## Resources
 
-- [My Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7180935345360797696/)
+
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 03 — Day-to-day Linux commands used by Cloud DevOps Engineers)](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-03-day-to-day-linux-commands-used-by-cloud-devops-engineers)
 - [Linux commands for DevOps (Commands used in day-to-day activities)](https://www.linkedin.com/pulse/linux-commands-devops-used-day-to-day-activit-chetan-/)
 - [Linux Commands for DevOps (Actually everyone)](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022/Days/day15.md)
 - [Linux for Hackers](https://www.youtube.com/watch?v=VbEx7B_PTOE)
 - [How to Learn Linux Shell Scripting for DevOps?](https://devopscube.com/linux-shell-scripting-for-devops/)
+
+- [My Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7180935345360797696/)
+🎉 Day 03 of my hashtag#100DaysOfCloudDevOps challenge
+
+In this article, I explored some fundamental terminal or command-line commands that every Cloud DevOps Engineers should know.
+
+For non-tech professionals, getting acquainted with these commands is akin to discovering a set of magic spells that instruct the computer on what to do. They help engineers deploy and manage software, automate tasks, and fix problems when things go wrong.
+
+Blog: https://lnkd.in/eewCHN9r
