@@ -21,10 +21,19 @@
 
 ## Resources
 
-- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-02-activity-7177990114239770624-UW0a?utm_source=share&utm_medium=member_desktop)
+
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 02 — Configuring Vagrant to use Docker as the provider for a container-based local environment](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-02-configuring-vagrant-to-use-docker-as-the-provider-for-a-container-based-local-environment)
 - [What are the differences between Docker and Vagrant for local development?](https://www.quora.com/What-are-the-differences-between-Docker-and-Vagrant-for-local-development)
 - [Using Docker as provider for Vagrant](https://dev.to/mattdark/using-docker-as-provider-for-vagrant-10me)
 - [Creating Reproducible Development Environments](https://medium.com/nerd-for-tech/creating-reproducible-development-environments-fac8d6471f35)
 - [Using Docker with Vagrant](https://blog.scottlowe.org/2015/02/10/using-docker-with-vagrant/)
 - [Disposable Local Development Environments with Vagrant, Docker, and Arkade](https://iximiuz.com/en/posts/how-to-setup-development-environment/)
+
+- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-02-activity-7177990114239770624-UW0a?utm_source=share&utm_medium=member_desktop)
+🎉 Day 02 of my hashtag#100DaysOfCloudDevOps challenge
+
+In this article, I successfully set up a container-based local environment using Docker with Vagrant. Elaborate why I have to have a separate environment for exploring Linux commands. Explain what a local environment and a container-based environment are, along with introducing Docker and Vagrant. Finally, I provide step-by-step instructions for installing necessary tools, creating Dockerfile, setting up Vagrantfile, starting the virtual machine, and accessing it via SSH.
+
+Blog: https://lnkd.in/eb8ewND3
+
+For non-tech professionals, this task means creating a special kind of setup on my computer that helps me to create a safe and separate space where I can continue to learn and practice without worrying about messing up anything important. Just like having a playground for trying out new things without any risk.
