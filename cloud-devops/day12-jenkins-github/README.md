@@ -57,3 +57,20 @@ Find me here too:
 - https://lnkd.in/eBDEwba6
 
 Inspired by: #100DaysOfCode #90DaysOfDevOps #100DaysOfCloud #90DaysOfCloud
+
+
+
+
+🎉 Day 12 of my #100DaysOfCloudDevOps challenge
+
+In this article, I’ll share how I set up CI/CD: Integrating Jenkins with GitHub
+
+What’s it about?
+This blog explains how to connect Jenkins with GitHub to automatically test, build, and deploy your code whenever you make changes. I cover everything from setting up webhooks to creating the pipeline and fixing common issues.
+
+For non-tech professionals, this task means automating everything from development to deployment to save time and effort! So you can use your most used online platform reliably, while engineers without worrying about manual processes or mistakes.
+
+Check out the full guide: https://lnkd.in/e3XAgyjh
+
+
+Inspired by: #100DaysOfCode #90DaysOfDevOps #100DaysOfCloud #90DaysOfCloud #CloudDevOps #Jenkins #GitHub #Automation #DevOps
