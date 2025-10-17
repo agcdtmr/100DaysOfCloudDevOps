@@ -13,7 +13,7 @@
 
 ## Resources
 
-- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_newsletter-anj-in-tech-activity-7184128072701386752-wdg6?utm_source=share&utm_medium=member_desktop)
+
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 05 — Editors](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-05-editors)
 - [Vim](https://www.vim.org/)
 - [Vim help files](https://vimhelp.org/)
@@ -26,3 +26,11 @@
 - [GNU Emacs Documentation](https://www.gnu.org/software/emacs/documentation.html)
 
 
+- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_newsletter-anj-in-tech-activity-7184128072701386752-wdg6?utm_source=share&utm_medium=member_desktop)
+🎉 Day 05 of my hashtag#100DaysOfCloudDevOps challenge
+
+In this article, I'll introduce two essential tools for editing files in a terminal: nano and vim. These editors cater to different needs and skill levels. Nano offers simplicity, displaying text as you type and providing straightforward commands like "CTRL + X" for saving. Vim, favored by programmers, boasts extensive capabilities but requires mastering modes and commands like ":wq" for saving and exiting. Explore the contrasts in ease of use, editing modes, and audience suitability to determine which suits your needs: the user-friendly Nano or the powerful yet challenging Vim.
+
+Blog: https://lnkd.in/etUvaT77
+
+For non-tech professionals, this article is about two tools you can use to change files directly in a terminal or command line, which is like a text-based interface to your computer. Examples: Notepad, Sublime Text, TextEdit.
