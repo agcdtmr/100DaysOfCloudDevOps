@@ -19,7 +19,7 @@
 
 ## Resources
 
-- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-01-activity-7175857784616321024-y7jJ?utm_source=share&utm_medium=member_desktop)
+
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 01 — An Introduction to Cloud Computing & DevOps](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-01-an-introduction-to-cloud-computing-devops)
 - [DevOps in 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
 - [GitHub: What is DevOps?](https://www.youtube.com/watch?v=kBV8gPVZNEE)
@@ -28,3 +28,28 @@
 - [What is DevOps](https://supriyasurkar.hashnode.dev/day-1-what-is-devops)
 - [Introduction to Cloud Computing](https://github.com/techgrounds/techgrounds-anj-dtmr/blob/main/week-4/04_cloud_09.md#introduction-to-cloud-computing)
 - [Advantages of the cloud](https://github.com/techgrounds/techgrounds-anj-dtmr/blob/main/week-4/04_cloud_03.md#advantages-of-the-cloud)
+
+
+- [My Linkedin post](https://www.linkedin.com/posts/anjcalleja_100daysofclouddevops-challenge-day-01-activity-7175857784616321024-y7jJ?utm_source=share&utm_medium=member_desktop)
+🎉 Day 01 of my hashtag#100DaysOfCloudDevOps challenge
+
+In this article, I'll share my understanding of Cloud Computing and DevOps.
+
+Blog: https://lnkd.in/e99fdqwJ
+
+------------
+Hi everyone! I'm at the beginning of my tech career.
+
+Join me as I share my journey—highlighting progress, making errors, be bff with the bugs, read code like it is a novel, linking helpful resources and improvements into writing documentation.
+
+I'm here to ask plenty of questions, question a lot of concepts and encourage a diverse perspective.
+
+Can't wait to learn from you, hear your feedback and engage in discussions with fellow enthusiasts.
+
+Find me here too:
+- https://lnkd.in/eZ8NVmY3
+- https://lnkd.in/ercqYVt2
+- https://lnkd.in/ew9kaQid
+- https://lnkd.in/eBDEwba6
+
+Inspired by: hashtag#100DaysOfCode hashtag#90DaysOfDevOps hashtag#100DaysOfCloud hashtag#90DaysOfCl
