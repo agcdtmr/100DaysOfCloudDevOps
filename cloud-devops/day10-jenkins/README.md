@@ -10,6 +10,22 @@
 
 ## Resources
 
-- [My Linkedin post]
+
 - Blog: [#100DaysOfCloudDevOps Challenge — Day 10 - Jenkins Fundamentals](https://anj.hashnode.dev/100daysofclouddevops-challenge-day-10-jenkins-fundamentals)
 - [jenkins-tutorial](https://github.com/ssbostan/jenkins-tutorial?tab=readme-ov-file)
+
+
+- [My Linkedin post]
+🎉 Day 10 of my #100DaysOfCloudDevOps Challenge!
+
+This challenge is about Jenkins fundamentals—exploring what it is, how it works, and why it’s a game-changer in CI/CD pipelines. If you’re curious, check out my latest blog post: https://lnkd.in/eYy3Axck
+
+
+-------------------------------------
+Hi everyone! I'm at the beginning of my tech career.
+
+Join me as I share my journey—highlighting progress, making errors, be bff with the bugs, read code like it is a novel, linking helpful resources and improvements into writing documentation.
+
+I'm here to ask plenty of questions, question a lot of concepts and encourage a diverse perspective. Can't wait to learn from you, hear your feedback and engage in discussions with fellow enthusiasts.
+
+Inspired by: hashtag#100DaysOfCode hashtag#90DaysOfDevOps hashtag#100DaysOfCloud hashtag#90DaysOfC
